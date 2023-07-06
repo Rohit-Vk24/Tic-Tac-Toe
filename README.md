@@ -3,6 +3,8 @@ The Tic Tac Toe game is a web-based application that brings the classic game to 
 
 I have built this game as part of my JavaScript mini projects which helps increase my understanding on JavaScript concepts. This game is different as it is single player game contrast to original game where two users play the game. I also made it responsive as i follow "mobile first approach" so as to enjoy this game on all devices.
 
+here is the link for my project deployed on GitHub Pages -> https://rohit-vk24.github.io/Tic-Tac-Toe/
+
 
 <img width="960" alt="12" src="https://github.com/Rohit-Vk24/Tic-Tac-Toe/assets/119065837/1b5c3aea-f20b-4ebf-b18c-55bb87b6497e">
 
